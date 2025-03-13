@@ -1,0 +1,10 @@
+A renewable energy company operates several wind farms with multiple wind turbines. 
+Each turbine generates performance data, including metrics like wind speed, power output, 
+turbine rotation speed, and operational status. The company saves this data batches of 
+CSV files and wants to process this data in batches to analyze performance trends, detect anomalies, 
+and optimize maintenance schedules using reports developed in QuickSight of AWS or Tableau.A 
+renewable energy company operates several wind farms with multiple wind turbines. Each turbine 
+generates performance data, including metrics like wind speed, power output, turbine rotation speed, 
+and operational status. The company saves this data batches of CSV files and wants to process 
+this data in batches to analyze performance trends, detect anomalies, and optimize maintenance 
+schedules using reports developed in QuickSight of AWS or Tableau.
